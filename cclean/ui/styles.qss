@@ -1,0 +1,12 @@
+QMainWindow {
+    background: #f7f8fa;
+}
+
+QLabel#PageTitle {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+QLabel#StatusText {
+    color: #5f6875;
+}
